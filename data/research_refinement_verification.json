@@ -1,0 +1,116 @@
+{
+  "checked_on": "2026-11-04",
+  "source_sha256": "d0909c46c65a8c796f022c2929dff97a67ade35e3fd0ede3427d8a4fb253df37",
+  "pdf_sha256": "e6effbe93c5768a066436b1a17b313e9cbffda57ded6c832743ab1cd2990a3ac",
+  "pdf_pages": 104,
+  "new_study_regeneration_completed": true,
+  "new_dataset_rows": {
+    "predictor_residual": 40,
+    "predictor_rank_refinement": 6,
+    "profile_optimum_diagnostics": 424,
+    "hilbert_remainders": 12
+  },
+  "combined_rows": 1406,
+  "datasets": 49,
+  "vector_figures": 14,
+  "predictor_replay": {
+    "main_rows": 40,
+    "rank_refinement_rows": 6,
+    "unique_certificates": 44,
+    "complete_saved_audits_reproduced": true,
+    "signed_coefficient_sources_rebuilt_from_trials": true,
+    "independent_fraction_error_propagation": true,
+    "exact_psd_toys": 3,
+    "unresolved_trace_screens_rejected": 2,
+    "self_checks": [
+      {
+        "D": "4",
+        "m": 80,
+        "features": 32,
+        "predictor_order": 0,
+        "precision_nesting": true,
+        "ambient_context_invariance": true
+      },
+      {
+        "D": "4",
+        "m": 80,
+        "features": 32,
+        "predictor_order": 1,
+        "precision_nesting": true,
+        "ambient_context_invariance": true
+      },
+      {
+        "D": "6",
+        "m": 70,
+        "features": 48,
+        "predictor_order": 0,
+        "precision_nesting": true,
+        "ambient_context_invariance": true
+      },
+      {
+        "D": "6",
+        "m": 70,
+        "features": 48,
+        "predictor_order": 1,
+        "precision_nesting": true,
+        "ambient_context_invariance": true
+      }
+    ],
+    "dependencies": "Python standard library only; saved exact predictor/source trials"
+  },
+  "hilbert_replay": [
+    {
+      "D": "4",
+      "V": "2",
+      "features": 40,
+      "precision": 60,
+      "minimum_half_anchor": 28,
+      "exact_predecessor_check": true,
+      "source_replayed": true,
+      "upper_precision_nesting": true,
+      "ambient_context_invariance": true,
+      "monotone_anchor_refinement": true,
+      "invalid_inputs_rejected": true,
+      "uniform_for_all_counts": true,
+      "finite_ratio_localization": false
+    },
+    {
+      "D": "6",
+      "V": "2",
+      "features": 50,
+      "precision": 60,
+      "minimum_half_anchor": 58,
+      "exact_predecessor_check": true,
+      "source_replayed": true,
+      "upper_precision_nesting": true,
+      "ambient_context_invariance": true,
+      "monotone_anchor_refinement": true,
+      "invalid_inputs_rejected": true,
+      "uniform_for_all_counts": true,
+      "finite_ratio_localization": false
+    },
+    {
+      "replayed_rows": 12,
+      "all_checks_passed": true,
+      "standard_library_only": true,
+      "continuous_even_gap_replayed": true,
+      "uniform_cubic_bounds": true,
+      "finite_ratio_localization": false
+    }
+  ],
+  "unchanged_baseline_data_files": 71,
+  "unchanged_baseline_individual_csv_files": 46,
+  "baseline_data_changes": [
+    "data/summary.json"
+  ],
+  "all_baseline_studies_rerun_this_turn": false,
+  "profile_numerics_scope": "Finite-window floating-point diagnostics; no continuum or all-integer winner certificate.",
+  "profile_all_integer_existence_and_leading_scale": "Analytical theorem, not a finite-ratio numerical uniqueness result.",
+  "uniform_hilbert_bounds_scope": "All integer m>=M for each certified anchor; still too conservative for tight r=12 count localisation.",
+  "pointwise_predictor_scope": "44 distinct finite-count certificates, not a replacement for uniform all-tail control.",
+  "citation_and_compile_checks": "references/manuscript_revision_checks.json",
+  "visual_reviews": [
+    "references/research/profile_revision_pdf_review.txt",
+    "references/research/residual_revision_pdf_review.txt"
+  ]
+}

@@ -1,0 +1,35 @@
+\begin{table}[htbp]
+\centering\small
+\caption{Numerical diagnostics on finite windows for the profile objective $P_m(r)$, with $V=2$, $d_w=1$ and $r=12$. The initial calculations use eight Gauss nodes per patch and 48 Gaussian features. Near each local maximum, we repeat them with sixteen nodes and 40/56 features. The values and refinement differences are floating-point diagnostics; they do not enclose the continuous problem or certify a global integer maximum.}
+\label{tab:profile_optimum_diagnostics}
+\begin{tabular}{llllll}
+\toprule
+$D$ & Local $m$ & $P_m(12)$ & Adjacent gap & Node check & Feature check\\
+\midrule
+4 & 53 & 0.585533712167 & $4.06\times10^{-7}$ & $5.55\times10^{-16}$ & $0$\\
+6 & 47 & 0.698984051909 & $5.28\times10^{-7}$ & $2.22\times10^{-16}$ & $1.11\times10^{-16}$\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[htbp]
+\centering\small
+\caption{Scaling diagnostics on the stated finite windows, with the water profile retained. The text gives the limiting constants for $m/r$ and $r(P_m-\beta_\infty)$. These rows do not certify a global maximiser at a fixed ratio.}
+\label{tab:profile_optimum_scaling}
+\begin{tabular}{llllll}
+\toprule
+$D$ & $r$ & Window & Local $m$ & $m/r$ & $r(P_m-\beta_\infty)$\\
+\midrule
+4 & 3 & [7,20] & 13 & 4.33333 & 0.0175913\\
+4 & 6 & [20,33] & 26 & 4.33333 & 0.0170694\\
+4 & 12 & [30,80] & 53 & 4.41667 & 0.0168441\\
+4 & 24 & [90,125] & 107 & 4.45833 & 0.0167396\\
+4 & 48 & [181,248] & 214 & 4.45833 & 0.0166894\\
+6 & 3 & [5,18] & 11 & 3.66667 & 0.0224976\\
+6 & 6 & [17,30] & 23 & 3.83333 & 0.0219709\\
+6 & 12 & [30,80] & 47 & 3.91667 & 0.0217472\\
+6 & 24 & [79,110] & 94 & 3.91667 & 0.0216454\\
+6 & 48 & [159,218] & 188 & 3.91667 & 0.0215965\\
+\bottomrule
+\end{tabular}
+\end{table}

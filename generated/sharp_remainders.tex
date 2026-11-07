@@ -1,0 +1,23 @@
+\begin{table}[htbp]
+\centering
+\caption{Certified error bounds for coefficient correction and Richardson extrapolation. The corrected bound includes the saved coefficient radius divided by $m$. The observed errors are float64 diagnostics.}
+\label{tab:sharp_remainders}
+\begin{tabular}{llllll}
+\toprule
+$D$ & $m$ & Corr. bound $\leq$ & Observed error & Extr. bound $\leq$ & Gain \\
+\midrule
+4 & 32 & 3.66E-3 & 5.03e-05 & 5.43E-3 & -- \\
+4 & 64 & 8.83E-4 & 1.23e-05 & 1.32E-3 & 11.8 \\
+4 & 128 & 2.17E-4 & 3.03e-06 & 3.25E-4 & 10.0 \\
+4 & 256 & 5.38E-5 & 7.52e-07 & 8.05E-5 & 9.4 \\
+4 & 512 & 1.34E-5 & 1.87e-07 & 2.01E-5 & 9.1 \\
+4 & 1024 & 3.35E-6 & 4.62e-08 & 5.01E-6 & 9.0 \\
+6 & 32 & 1.81E-2 & 4.02e-05 & 2.60E-2 & -- \\
+6 & 64 & 3.91E-3 & 9.78e-06 & 5.76E-3 & -- \\
+6 & 128 & 9.22E-4 & 2.40e-06 & 1.38E-3 & -- \\
+6 & 256 & 2.25E-4 & 5.92e-07 & 3.35E-4 & 33.3 \\
+6 & 512 & 5.54E-5 & 1.45e-07 & 8.29E-5 & 23.9 \\
+6 & 1024 & 1.38E-5 & 3.49e-08 & 2.07E-5 & 21.1 \\
+\bottomrule
+\end{tabular}
+\end{table}

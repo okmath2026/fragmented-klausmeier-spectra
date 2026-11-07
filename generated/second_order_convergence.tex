@@ -1,0 +1,23 @@
+\begin{table}[htbp]
+\centering
+\caption{Second-order correction evaluated with eight Gauss points per patch and FFT multiplication. The last column reports an observed order, not a certified convergence rate.}
+\label{tab:second_order_convergence}
+\begin{tabular}{llllll}
+\toprule
+$D$ & $m$ & First corr. error & Second corr. error & $m^3$ error & Order \\
+\midrule
+4 & 16 & 2.110e-04 & 1.898e-05 & 0.07776 & -- \\
+4 & 32 & 5.032e-05 & 2.311e-06 & 0.07574 & 3.038 \\
+4 & 64 & 1.229e-05 & 2.852e-07 & 0.07477 & 3.019 \\
+4 & 128 & 3.036e-06 & 3.543e-08 & 0.07430 & 3.009 \\
+4 & 256 & 7.545e-07 & 4.415e-09 & 0.07407 & 3.005 \\
+4 & 512 & 1.881e-07 & 5.510e-10 & 0.07395 & 3.002 \\
+6 & 16 & 1.692e-04 & 1.600e-05 & 0.06552 & -- \\
+6 & 32 & 4.027e-05 & 1.971e-06 & 0.06458 & 3.021 \\
+6 & 64 & 9.820e-06 & 2.446e-07 & 0.06411 & 3.011 \\
+6 & 128 & 2.424e-06 & 3.046e-08 & 0.06388 & 3.005 \\
+6 & 256 & 6.023e-07 & 3.801e-09 & 0.06376 & 3.003 \\
+6 & 512 & 1.501e-07 & 4.746e-10 & 0.06370 & 3.001 \\
+\bottomrule
+\end{tabular}
+\end{table}

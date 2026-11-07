@@ -1,0 +1,1812 @@
+{
+  "selection": {
+    "4": [
+      {
+        "m": 2,
+        "features": 20
+      },
+      {
+        "m": 3,
+        "features": 20
+      },
+      {
+        "m": 4,
+        "features": 20
+      },
+      {
+        "m": 5,
+        "features": 20
+      },
+      {
+        "m": 6,
+        "features": 20
+      },
+      {
+        "m": 7,
+        "features": 20
+      },
+      {
+        "m": 8,
+        "features": 20
+      },
+      {
+        "m": 9,
+        "features": 20
+      },
+      {
+        "m": 10,
+        "features": 20
+      },
+      {
+        "m": 11,
+        "features": 20
+      },
+      {
+        "m": 12,
+        "features": 20
+      },
+      {
+        "m": 13,
+        "features": 20
+      },
+      {
+        "m": 14,
+        "features": 20
+      },
+      {
+        "m": 15,
+        "features": 20
+      },
+      {
+        "m": 16,
+        "features": 20
+      },
+      {
+        "m": 17,
+        "features": 20
+      },
+      {
+        "m": 18,
+        "features": 20
+      },
+      {
+        "m": 19,
+        "features": 20
+      },
+      {
+        "m": 20,
+        "features": 20
+      },
+      {
+        "m": 21,
+        "features": 20
+      },
+      {
+        "m": 22,
+        "features": 20
+      },
+      {
+        "m": 23,
+        "features": 20
+      },
+      {
+        "m": 24,
+        "features": 20
+      },
+      {
+        "m": 25,
+        "features": 20
+      },
+      {
+        "m": 26,
+        "features": 20
+      },
+      {
+        "m": 27,
+        "features": 20
+      },
+      {
+        "m": 28,
+        "features": 20
+      },
+      {
+        "m": 29,
+        "features": 20
+      },
+      {
+        "m": 30,
+        "features": 20
+      },
+      {
+        "m": 31,
+        "features": 20
+      },
+      {
+        "m": 32,
+        "features": 20
+      },
+      {
+        "m": 33,
+        "features": 20
+      },
+      {
+        "m": 34,
+        "features": 20
+      },
+      {
+        "m": 35,
+        "features": 20
+      },
+      {
+        "m": 36,
+        "features": 20
+      },
+      {
+        "m": 37,
+        "features": 20
+      },
+      {
+        "m": 38,
+        "features": 20
+      },
+      {
+        "m": 39,
+        "features": 20
+      },
+      {
+        "m": 40,
+        "features": 20
+      },
+      {
+        "m": 41,
+        "features": 20
+      },
+      {
+        "m": 42,
+        "features": 20
+      },
+      {
+        "m": 43,
+        "features": 20
+      },
+      {
+        "m": 44,
+        "features": 20
+      },
+      {
+        "m": 45,
+        "features": 20
+      },
+      {
+        "m": 46,
+        "features": 20
+      },
+      {
+        "m": 47,
+        "features": 20
+      },
+      {
+        "m": 48,
+        "features": 20
+      },
+      {
+        "m": 49,
+        "features": 20
+      },
+      {
+        "m": 50,
+        "features": 20
+      },
+      {
+        "m": 51,
+        "features": 20
+      },
+      {
+        "m": 52,
+        "features": 20
+      },
+      {
+        "m": 53,
+        "features": 20
+      },
+      {
+        "m": 54,
+        "features": 20
+      },
+      {
+        "m": 55,
+        "features": 20
+      },
+      {
+        "m": 56,
+        "features": 20
+      },
+      {
+        "m": 57,
+        "features": 20
+      },
+      {
+        "m": 58,
+        "features": 20
+      },
+      {
+        "m": 59,
+        "features": 20
+      },
+      {
+        "m": 60,
+        "features": 20
+      },
+      {
+        "m": 61,
+        "features": 20
+      },
+      {
+        "m": 62,
+        "features": 20
+      },
+      {
+        "m": 63,
+        "features": 20
+      },
+      {
+        "m": 64,
+        "features": 20
+      },
+      {
+        "m": 65,
+        "features": 20
+      },
+      {
+        "m": 66,
+        "features": 20
+      },
+      {
+        "m": 67,
+        "features": 20
+      },
+      {
+        "m": 68,
+        "features": 20
+      },
+      {
+        "m": 69,
+        "features": 20
+      },
+      {
+        "m": 70,
+        "features": 20
+      },
+      {
+        "m": 71,
+        "features": 20
+      },
+      {
+        "m": 72,
+        "features": 20
+      },
+      {
+        "m": 73,
+        "features": 20
+      },
+      {
+        "m": 74,
+        "features": 20
+      },
+      {
+        "m": 75,
+        "features": 20
+      },
+      {
+        "m": 76,
+        "features": 20
+      },
+      {
+        "m": 77,
+        "features": 20
+      },
+      {
+        "m": 78,
+        "features": 20
+      },
+      {
+        "m": 79,
+        "features": 20
+      },
+      {
+        "m": 80,
+        "features": 30
+      },
+      {
+        "m": 81,
+        "features": 20
+      },
+      {
+        "m": 82,
+        "features": 20
+      },
+      {
+        "m": 83,
+        "features": 20
+      },
+      {
+        "m": 84,
+        "features": 20
+      },
+      {
+        "m": 85,
+        "features": 20
+      },
+      {
+        "m": 86,
+        "features": 20
+      },
+      {
+        "m": 87,
+        "features": 20
+      },
+      {
+        "m": 88,
+        "features": 20
+      },
+      {
+        "m": 89,
+        "features": 20
+      },
+      {
+        "m": 90,
+        "features": 20
+      },
+      {
+        "m": 91,
+        "features": 20
+      },
+      {
+        "m": 92,
+        "features": 20
+      },
+      {
+        "m": 93,
+        "features": 20
+      },
+      {
+        "m": 94,
+        "features": 20
+      },
+      {
+        "m": 95,
+        "features": 20
+      },
+      {
+        "m": 96,
+        "features": 20
+      },
+      {
+        "m": 97,
+        "features": 20
+      },
+      {
+        "m": 98,
+        "features": 20
+      },
+      {
+        "m": 99,
+        "features": 20
+      },
+      {
+        "m": 100,
+        "features": 20
+      },
+      {
+        "m": 101,
+        "features": 20
+      },
+      {
+        "m": 102,
+        "features": 20
+      },
+      {
+        "m": 103,
+        "features": 20
+      },
+      {
+        "m": 104,
+        "features": 20
+      },
+      {
+        "m": 105,
+        "features": 20
+      },
+      {
+        "m": 106,
+        "features": 20
+      },
+      {
+        "m": 107,
+        "features": 20
+      },
+      {
+        "m": 108,
+        "features": 20
+      },
+      {
+        "m": 109,
+        "features": 20
+      },
+      {
+        "m": 110,
+        "features": 20
+      },
+      {
+        "m": 111,
+        "features": 20
+      },
+      {
+        "m": 112,
+        "features": 20
+      },
+      {
+        "m": 113,
+        "features": 20
+      },
+      {
+        "m": 114,
+        "features": 20
+      },
+      {
+        "m": 115,
+        "features": 20
+      },
+      {
+        "m": 116,
+        "features": 20
+      },
+      {
+        "m": 117,
+        "features": 20
+      },
+      {
+        "m": 118,
+        "features": 20
+      },
+      {
+        "m": 119,
+        "features": 20
+      },
+      {
+        "m": 120,
+        "features": 20
+      },
+      {
+        "m": 121,
+        "features": 20
+      },
+      {
+        "m": 122,
+        "features": 20
+      },
+      {
+        "m": 123,
+        "features": 20
+      },
+      {
+        "m": 124,
+        "features": 20
+      },
+      {
+        "m": 125,
+        "features": 20
+      },
+      {
+        "m": 126,
+        "features": 20
+      },
+      {
+        "m": 127,
+        "features": 20
+      },
+      {
+        "m": 128,
+        "features": 20
+      },
+      {
+        "m": 129,
+        "features": 20
+      },
+      {
+        "m": 130,
+        "features": 20
+      },
+      {
+        "m": 131,
+        "features": 20
+      },
+      {
+        "m": 132,
+        "features": 20
+      },
+      {
+        "m": 133,
+        "features": 20
+      },
+      {
+        "m": 134,
+        "features": 20
+      },
+      {
+        "m": 135,
+        "features": 20
+      },
+      {
+        "m": 136,
+        "features": 20
+      },
+      {
+        "m": 137,
+        "features": 20
+      },
+      {
+        "m": 138,
+        "features": 20
+      },
+      {
+        "m": 139,
+        "features": 20
+      },
+      {
+        "m": 140,
+        "features": 20
+      },
+      {
+        "m": 141,
+        "features": 20
+      },
+      {
+        "m": 142,
+        "features": 20
+      },
+      {
+        "m": 143,
+        "features": 20
+      },
+      {
+        "m": 144,
+        "features": 20
+      },
+      {
+        "m": 145,
+        "features": 20
+      },
+      {
+        "m": 146,
+        "features": 20
+      },
+      {
+        "m": 147,
+        "features": 20
+      },
+      {
+        "m": 148,
+        "features": 20
+      },
+      {
+        "m": 149,
+        "features": 20
+      },
+      {
+        "m": 150,
+        "features": 20
+      },
+      {
+        "m": 151,
+        "features": 20
+      },
+      {
+        "m": 152,
+        "features": 20
+      },
+      {
+        "m": 153,
+        "features": 20
+      },
+      {
+        "m": 154,
+        "features": 20
+      },
+      {
+        "m": 155,
+        "features": 20
+      },
+      {
+        "m": 156,
+        "features": 20
+      },
+      {
+        "m": 157,
+        "features": 20
+      },
+      {
+        "m": 158,
+        "features": 20
+      },
+      {
+        "m": 159,
+        "features": 20
+      },
+      {
+        "m": 160,
+        "features": 20
+      },
+      {
+        "m": 161,
+        "features": 20
+      },
+      {
+        "m": 162,
+        "features": 20
+      },
+      {
+        "m": 163,
+        "features": 20
+      },
+      {
+        "m": 164,
+        "features": 20
+      },
+      {
+        "m": 165,
+        "features": 20
+      },
+      {
+        "m": 166,
+        "features": 20
+      },
+      {
+        "m": 167,
+        "features": 20
+      },
+      {
+        "m": 168,
+        "features": 20
+      },
+      {
+        "m": 169,
+        "features": 20
+      },
+      {
+        "m": 170,
+        "features": 20
+      },
+      {
+        "m": 171,
+        "features": 20
+      },
+      {
+        "m": 172,
+        "features": 20
+      },
+      {
+        "m": 173,
+        "features": 20
+      },
+      {
+        "m": 174,
+        "features": 20
+      },
+      {
+        "m": 175,
+        "features": 20
+      },
+      {
+        "m": 176,
+        "features": 20
+      },
+      {
+        "m": 177,
+        "features": 20
+      },
+      {
+        "m": 178,
+        "features": 20
+      },
+      {
+        "m": 179,
+        "features": 20
+      },
+      {
+        "m": 180,
+        "features": 20
+      },
+      {
+        "m": 181,
+        "features": 20
+      },
+      {
+        "m": 182,
+        "features": 20
+      },
+      {
+        "m": 183,
+        "features": 20
+      },
+      {
+        "m": 184,
+        "features": 20
+      },
+      {
+        "m": 185,
+        "features": 20
+      },
+      {
+        "m": 186,
+        "features": 20
+      },
+      {
+        "m": 187,
+        "features": 20
+      },
+      {
+        "m": 188,
+        "features": 20
+      },
+      {
+        "m": 189,
+        "features": 20
+      },
+      {
+        "m": 190,
+        "features": 20
+      },
+      {
+        "m": 191,
+        "features": 20
+      },
+      {
+        "m": 192,
+        "features": 20
+      },
+      {
+        "m": 193,
+        "features": 20
+      },
+      {
+        "m": 194,
+        "features": 20
+      },
+      {
+        "m": 195,
+        "features": 20
+      },
+      {
+        "m": 196,
+        "features": 20
+      },
+      {
+        "m": 197,
+        "features": 20
+      },
+      {
+        "m": 198,
+        "features": 20
+      },
+      {
+        "m": 199,
+        "features": 20
+      },
+      {
+        "m": 200,
+        "features": 20
+      },
+      {
+        "m": 201,
+        "features": 20
+      },
+      {
+        "m": 202,
+        "features": 20
+      },
+      {
+        "m": 203,
+        "features": 20
+      },
+      {
+        "m": 204,
+        "features": 20
+      },
+      {
+        "m": 205,
+        "features": 20
+      },
+      {
+        "m": 206,
+        "features": 20
+      },
+      {
+        "m": 207,
+        "features": 20
+      },
+      {
+        "m": 208,
+        "features": 20
+      },
+      {
+        "m": 209,
+        "features": 20
+      },
+      {
+        "m": 210,
+        "features": 20
+      },
+      {
+        "m": 211,
+        "features": 20
+      },
+      {
+        "m": 212,
+        "features": 20
+      },
+      {
+        "m": 213,
+        "features": 20
+      },
+      {
+        "m": 214,
+        "features": 20
+      },
+      {
+        "m": 215,
+        "features": 20
+      },
+      {
+        "m": 216,
+        "features": 20
+      },
+      {
+        "m": 217,
+        "features": 20
+      },
+      {
+        "m": 218,
+        "features": 20
+      },
+      {
+        "m": 219,
+        "features": 20
+      },
+      {
+        "m": 220,
+        "features": 20
+      },
+      {
+        "m": 221,
+        "features": 20
+      },
+      {
+        "m": 222,
+        "features": 20
+      },
+      {
+        "m": 223,
+        "features": 20
+      },
+      {
+        "m": 224,
+        "features": 20
+      },
+      {
+        "m": 225,
+        "features": 20
+      },
+      {
+        "m": 226,
+        "features": 20
+      },
+      {
+        "m": 227,
+        "features": 20
+      },
+      {
+        "m": 228,
+        "features": 20
+      },
+      {
+        "m": 229,
+        "features": 20
+      },
+      {
+        "m": 230,
+        "features": 20
+      },
+      {
+        "m": 231,
+        "features": 20
+      },
+      {
+        "m": 232,
+        "features": 20
+      },
+      {
+        "m": 233,
+        "features": 20
+      },
+      {
+        "m": 234,
+        "features": 20
+      },
+      {
+        "m": 235,
+        "features": 20
+      },
+      {
+        "m": 236,
+        "features": 20
+      },
+      {
+        "m": 237,
+        "features": 20
+      },
+      {
+        "m": 238,
+        "features": 20
+      },
+      {
+        "m": 239,
+        "features": 20
+      }
+    ],
+    "6": [
+      {
+        "m": 2,
+        "features": 20
+      },
+      {
+        "m": 3,
+        "features": 20
+      },
+      {
+        "m": 4,
+        "features": 20
+      },
+      {
+        "m": 5,
+        "features": 20
+      },
+      {
+        "m": 6,
+        "features": 20
+      },
+      {
+        "m": 7,
+        "features": 20
+      },
+      {
+        "m": 8,
+        "features": 20
+      },
+      {
+        "m": 9,
+        "features": 20
+      },
+      {
+        "m": 10,
+        "features": 20
+      },
+      {
+        "m": 11,
+        "features": 20
+      },
+      {
+        "m": 12,
+        "features": 20
+      },
+      {
+        "m": 13,
+        "features": 20
+      },
+      {
+        "m": 14,
+        "features": 20
+      },
+      {
+        "m": 15,
+        "features": 20
+      },
+      {
+        "m": 16,
+        "features": 20
+      },
+      {
+        "m": 17,
+        "features": 20
+      },
+      {
+        "m": 18,
+        "features": 20
+      },
+      {
+        "m": 19,
+        "features": 20
+      },
+      {
+        "m": 20,
+        "features": 20
+      },
+      {
+        "m": 21,
+        "features": 20
+      },
+      {
+        "m": 22,
+        "features": 20
+      },
+      {
+        "m": 23,
+        "features": 20
+      },
+      {
+        "m": 24,
+        "features": 20
+      },
+      {
+        "m": 25,
+        "features": 20
+      },
+      {
+        "m": 26,
+        "features": 20
+      },
+      {
+        "m": 27,
+        "features": 20
+      },
+      {
+        "m": 28,
+        "features": 20
+      },
+      {
+        "m": 29,
+        "features": 20
+      },
+      {
+        "m": 30,
+        "features": 20
+      },
+      {
+        "m": 31,
+        "features": 20
+      },
+      {
+        "m": 32,
+        "features": 20
+      },
+      {
+        "m": 33,
+        "features": 20
+      },
+      {
+        "m": 34,
+        "features": 20
+      },
+      {
+        "m": 35,
+        "features": 20
+      },
+      {
+        "m": 36,
+        "features": 20
+      },
+      {
+        "m": 37,
+        "features": 20
+      },
+      {
+        "m": 38,
+        "features": 20
+      },
+      {
+        "m": 39,
+        "features": 20
+      },
+      {
+        "m": 40,
+        "features": 20
+      },
+      {
+        "m": 41,
+        "features": 20
+      },
+      {
+        "m": 42,
+        "features": 20
+      },
+      {
+        "m": 43,
+        "features": 20
+      },
+      {
+        "m": 44,
+        "features": 20
+      },
+      {
+        "m": 45,
+        "features": 20
+      },
+      {
+        "m": 46,
+        "features": 20
+      },
+      {
+        "m": 47,
+        "features": 20
+      },
+      {
+        "m": 48,
+        "features": 20
+      },
+      {
+        "m": 49,
+        "features": 20
+      },
+      {
+        "m": 50,
+        "features": 20
+      },
+      {
+        "m": 51,
+        "features": 20
+      },
+      {
+        "m": 52,
+        "features": 20
+      },
+      {
+        "m": 53,
+        "features": 20
+      },
+      {
+        "m": 54,
+        "features": 20
+      },
+      {
+        "m": 55,
+        "features": 20
+      },
+      {
+        "m": 56,
+        "features": 20
+      },
+      {
+        "m": 57,
+        "features": 20
+      },
+      {
+        "m": 58,
+        "features": 20
+      },
+      {
+        "m": 59,
+        "features": 20
+      },
+      {
+        "m": 60,
+        "features": 20
+      },
+      {
+        "m": 61,
+        "features": 20
+      },
+      {
+        "m": 62,
+        "features": 20
+      },
+      {
+        "m": 63,
+        "features": 20
+      },
+      {
+        "m": 64,
+        "features": 20
+      },
+      {
+        "m": 65,
+        "features": 20
+      },
+      {
+        "m": 66,
+        "features": 20
+      },
+      {
+        "m": 67,
+        "features": 20
+      },
+      {
+        "m": 68,
+        "features": 30
+      },
+      {
+        "m": 69,
+        "features": 30
+      },
+      {
+        "m": 70,
+        "features": 40
+      },
+      {
+        "m": 71,
+        "features": 30
+      },
+      {
+        "m": 72,
+        "features": 30
+      },
+      {
+        "m": 73,
+        "features": 20
+      },
+      {
+        "m": 74,
+        "features": 20
+      },
+      {
+        "m": 75,
+        "features": 20
+      },
+      {
+        "m": 76,
+        "features": 20
+      },
+      {
+        "m": 77,
+        "features": 20
+      },
+      {
+        "m": 78,
+        "features": 20
+      },
+      {
+        "m": 79,
+        "features": 20
+      },
+      {
+        "m": 80,
+        "features": 20
+      },
+      {
+        "m": 81,
+        "features": 20
+      },
+      {
+        "m": 82,
+        "features": 20
+      },
+      {
+        "m": 83,
+        "features": 20
+      },
+      {
+        "m": 84,
+        "features": 20
+      },
+      {
+        "m": 85,
+        "features": 20
+      },
+      {
+        "m": 86,
+        "features": 20
+      },
+      {
+        "m": 87,
+        "features": 20
+      },
+      {
+        "m": 88,
+        "features": 20
+      },
+      {
+        "m": 89,
+        "features": 20
+      },
+      {
+        "m": 90,
+        "features": 20
+      },
+      {
+        "m": 91,
+        "features": 20
+      },
+      {
+        "m": 92,
+        "features": 20
+      },
+      {
+        "m": 93,
+        "features": 20
+      },
+      {
+        "m": 94,
+        "features": 20
+      },
+      {
+        "m": 95,
+        "features": 20
+      },
+      {
+        "m": 96,
+        "features": 20
+      },
+      {
+        "m": 97,
+        "features": 20
+      },
+      {
+        "m": 98,
+        "features": 20
+      },
+      {
+        "m": 99,
+        "features": 20
+      },
+      {
+        "m": 100,
+        "features": 20
+      },
+      {
+        "m": 101,
+        "features": 20
+      },
+      {
+        "m": 102,
+        "features": 20
+      },
+      {
+        "m": 103,
+        "features": 20
+      },
+      {
+        "m": 104,
+        "features": 20
+      },
+      {
+        "m": 105,
+        "features": 20
+      },
+      {
+        "m": 106,
+        "features": 20
+      },
+      {
+        "m": 107,
+        "features": 20
+      },
+      {
+        "m": 108,
+        "features": 20
+      },
+      {
+        "m": 109,
+        "features": 20
+      },
+      {
+        "m": 110,
+        "features": 20
+      },
+      {
+        "m": 111,
+        "features": 20
+      },
+      {
+        "m": 112,
+        "features": 20
+      },
+      {
+        "m": 113,
+        "features": 20
+      },
+      {
+        "m": 114,
+        "features": 20
+      },
+      {
+        "m": 115,
+        "features": 20
+      },
+      {
+        "m": 116,
+        "features": 20
+      },
+      {
+        "m": 117,
+        "features": 20
+      },
+      {
+        "m": 118,
+        "features": 20
+      },
+      {
+        "m": 119,
+        "features": 20
+      },
+      {
+        "m": 120,
+        "features": 20
+      },
+      {
+        "m": 121,
+        "features": 20
+      },
+      {
+        "m": 122,
+        "features": 20
+      },
+      {
+        "m": 123,
+        "features": 20
+      },
+      {
+        "m": 124,
+        "features": 20
+      },
+      {
+        "m": 125,
+        "features": 20
+      },
+      {
+        "m": 126,
+        "features": 20
+      },
+      {
+        "m": 127,
+        "features": 20
+      },
+      {
+        "m": 128,
+        "features": 20
+      },
+      {
+        "m": 129,
+        "features": 20
+      },
+      {
+        "m": 130,
+        "features": 20
+      },
+      {
+        "m": 131,
+        "features": 20
+      },
+      {
+        "m": 132,
+        "features": 20
+      },
+      {
+        "m": 133,
+        "features": 20
+      },
+      {
+        "m": 134,
+        "features": 20
+      },
+      {
+        "m": 135,
+        "features": 20
+      },
+      {
+        "m": 136,
+        "features": 20
+      },
+      {
+        "m": 137,
+        "features": 20
+      },
+      {
+        "m": 138,
+        "features": 20
+      },
+      {
+        "m": 139,
+        "features": 20
+      },
+      {
+        "m": 140,
+        "features": 20
+      },
+      {
+        "m": 141,
+        "features": 20
+      },
+      {
+        "m": 142,
+        "features": 20
+      },
+      {
+        "m": 143,
+        "features": 20
+      },
+      {
+        "m": 144,
+        "features": 20
+      },
+      {
+        "m": 145,
+        "features": 20
+      },
+      {
+        "m": 146,
+        "features": 20
+      },
+      {
+        "m": 147,
+        "features": 20
+      },
+      {
+        "m": 148,
+        "features": 20
+      },
+      {
+        "m": 149,
+        "features": 20
+      },
+      {
+        "m": 150,
+        "features": 20
+      },
+      {
+        "m": 151,
+        "features": 20
+      },
+      {
+        "m": 152,
+        "features": 20
+      },
+      {
+        "m": 153,
+        "features": 20
+      },
+      {
+        "m": 154,
+        "features": 20
+      },
+      {
+        "m": 155,
+        "features": 20
+      },
+      {
+        "m": 156,
+        "features": 20
+      },
+      {
+        "m": 157,
+        "features": 20
+      },
+      {
+        "m": 158,
+        "features": 20
+      },
+      {
+        "m": 159,
+        "features": 20
+      },
+      {
+        "m": 160,
+        "features": 20
+      },
+      {
+        "m": 161,
+        "features": 20
+      },
+      {
+        "m": 162,
+        "features": 20
+      },
+      {
+        "m": 163,
+        "features": 20
+      },
+      {
+        "m": 164,
+        "features": 20
+      },
+      {
+        "m": 165,
+        "features": 20
+      },
+      {
+        "m": 166,
+        "features": 20
+      },
+      {
+        "m": 167,
+        "features": 20
+      },
+      {
+        "m": 168,
+        "features": 20
+      },
+      {
+        "m": 169,
+        "features": 20
+      },
+      {
+        "m": 170,
+        "features": 20
+      },
+      {
+        "m": 171,
+        "features": 20
+      },
+      {
+        "m": 172,
+        "features": 20
+      },
+      {
+        "m": 173,
+        "features": 20
+      },
+      {
+        "m": 174,
+        "features": 20
+      },
+      {
+        "m": 175,
+        "features": 20
+      },
+      {
+        "m": 176,
+        "features": 20
+      },
+      {
+        "m": 177,
+        "features": 20
+      },
+      {
+        "m": 178,
+        "features": 20
+      },
+      {
+        "m": 179,
+        "features": 20
+      },
+      {
+        "m": 180,
+        "features": 20
+      },
+      {
+        "m": 181,
+        "features": 20
+      },
+      {
+        "m": 182,
+        "features": 20
+      },
+      {
+        "m": 183,
+        "features": 20
+      },
+      {
+        "m": 184,
+        "features": 20
+      },
+      {
+        "m": 185,
+        "features": 20
+      },
+      {
+        "m": 186,
+        "features": 20
+      },
+      {
+        "m": 187,
+        "features": 20
+      },
+      {
+        "m": 188,
+        "features": 20
+      },
+      {
+        "m": 189,
+        "features": 20
+      },
+      {
+        "m": 190,
+        "features": 20
+      },
+      {
+        "m": 191,
+        "features": 20
+      },
+      {
+        "m": 192,
+        "features": 20
+      },
+      {
+        "m": 193,
+        "features": 20
+      },
+      {
+        "m": 194,
+        "features": 20
+      },
+      {
+        "m": 195,
+        "features": 20
+      },
+      {
+        "m": 196,
+        "features": 20
+      },
+      {
+        "m": 197,
+        "features": 20
+      },
+      {
+        "m": 198,
+        "features": 20
+      },
+      {
+        "m": 199,
+        "features": 20
+      }
+    ]
+  },
+  "targets": {
+    "4": [
+      "11.95",
+      "12.09"
+    ],
+    "6": [
+      "11.87",
+      "12.03"
+    ]
+  },
+  "principal_checks": [
+    {
+      "D": "4",
+      "V": "2",
+      "m": 80,
+      "features": 30,
+      "precision_nesting": true,
+      "ambient_context_invariance": true,
+      "principal_even_only": true,
+      "uses_quantified_gap": false
+    },
+    {
+      "D": "6",
+      "V": "2",
+      "m": 70,
+      "features": 40,
+      "precision_nesting": true,
+      "ambient_context_invariance": true,
+      "principal_even_only": true,
+      "uses_quantified_gap": false
+    }
+  ],
+  "global_checks": [
+    {
+      "D": "4",
+      "winner_m": 80,
+      "precision_nesting": true,
+      "ambient_context_invariance": true,
+      "exact_rational_ratio_sector": true,
+      "complete_finite_coverage": true
+    },
+    {
+      "D": "6",
+      "winner_m": 70,
+      "precision_nesting": true,
+      "ambient_context_invariance": true,
+      "exact_rational_ratio_sector": true,
+      "complete_finite_coverage": true
+    }
+  ],
+  "finite_coverage": {
+    "4": [
+      2,
+      239
+    ],
+    "6": [
+      2,
+      199
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+Reproduction guide
+==================
+
+Article:  Second-order fragmentation expansions and certified optimal patch
+          counts in a non-local Klausmeier model (Q. Zhang)
+Archive:  Supplementary_code_and_data.zip (folder code_and_data/)
+
+1. Contents
+-----------
+  scripts/      Python sources. The validated_*.py and verify_*.py modules use
+                only the Python standard library; the *_study.py drivers and
+                spectral_study.py also use NumPy for trial vectors, Gauss
+                quadrature and floating-point diagnostics.
+  data/         Saved results: CSV tables and JSON audits. Every certified
+                endpoint and every trial vector is stored as an exact decimal
+                string.
+  generated/    LaTeX tables written from data/ by the study scripts.
+  figures/      The 14 vector figures of the Supplementary material.
+  requirements-spectral.txt   Pinned Python dependencies.
+  build_manuscript.ps1        Optional PowerShell driver (regenerate, verify,
+                              compile).
+
+2. Software
+-----------
+  Python 3.12 with numpy==2.3.5, reportlab==4.4.9, pypdf==6.10.0:
+      python -m pip install -r requirements-spectral.txt
+  The verification step (Section 4) needs only the Python standard library.
+  Compiling the documents needs pdfLaTeX (or XeLaTeX) with the elsarticle
+  class.
+
+3. Regenerating the data
+------------------------
+      python scripts/shape_spectral_examples.py
+  This deterministic run rewrites data/, generated/ and figures/. It uses no
+  empirical input and no random sampling. Floating-point diagnostics may differ
+  in the last digits on other platforms; certified endpoints do not depend on
+  them, because they are recomputed from the saved exact trial vectors.
+
+4. Verifying the certificates
+-----------------------------
+  Each command reads the saved data, recomputes every enclosure with directed
+  decimal arithmetic (60 significant digits, nesting checked at 80), checks
+  every strict inequality, and stops with a non-zero exit code on any failure.
+  Together they take about two to three minutes.
+
+  Command                              Results re-checked
+  python scripts/verify_certificates.py      Midpoint enclosures and exclusion examples
+                                             (Theorem 5.2; Suppl. S1 and Corollary S2.13)
+  python scripts/verify_boundary.py          First boundary coefficient, gap and first-
+                                             order remainder (Proposition 5.3, Theorem
+                                             5.6, Corollary 5.7)
+  python scripts/verify_sharp.py             Parity gap, structured remainder and
+                                             eventual sign (Proposition 5.4, Theorem 5.8,
+                                             Corollary 5.9)
+  python scripts/verify_second_order.py      Weak-measure expansion (Lemma 4.9) and the
+                                             cubic budget of Theorem 4.10
+  python scripts/verify_signed_second.py     Signed second coefficient (Propositions 4.11
+                                             and 4.12)
+  python scripts/verify_cubic_anchor.py      Anchor-dependent cubic bound (Suppl. Section
+                                             S2.4)
+  python scripts/verify_hilbert_remainder.py Uniform cubic remainder from 28 and 58
+                                             patches (Theorem 5.13)
+  python scripts/verify_predictor.py         Residual bounds at given counts (Suppl.
+                                             Section S2.7)
+  python scripts/verify_extensions.py        Weighted water test, broad kernels, finite-
+                                             rank Gaussian spectra (Suppl. Sections S2.1
+                                             and S2.9; Proposition 5.11)
+  python scripts/verify_coupled.py           Water factors (Theorem 3.3) and the plant-
+                                             only maxima at 3 and 4 patches (Proposition
+                                             6.1, Theorem 6.3)
+  python scripts/verify_coupled_optimum.py   Coupled maxima at 80 and 70 patches and
+                                             ratio intervals (Theorem 6.12, Corollary
+                                             6.13)
+  python scripts/verify_transitions.py       The four switching ratios (Proposition 6.15,
+                                             Corollary 6.16)
+
+  Theorem numbers refer to the article as submitted. The comparisons over all
+  integer counts are complete: the verifiers reject any record set that leaves
+  a finite count uncovered, and they rebuild the infinite tails from the saved
+  envelope bounds.
+
+5. Compiling the documents (optional)
+-------------------------------------
+  The article and the Supplementary material refer to each other with
+  xr-hyper. Compile in the order article, supplement, article, supplement,
+  article:
+      pdflatex paper_journal.tex
+      pdflatex paper_OR1.tex
+      pdflatex paper_journal.tex
+      pdflatex paper_OR1.tex
+      pdflatex paper_journal.tex
+  or run  ./build_manuscript.ps1 -CompileOnly  in PowerShell.
+  The LaTeX sources are supplied with the submission, not in this archive.
+
+6. Scope of the computations
+----------------------------
+  Gauss quadrature, FFT products and the water-profile scans (local optima 53
+  and 47) are floating-point diagnostics and are not used as proofs. The
+  Gaussian exponential and the Machin formula for pi are shared by the
+  production and verification code; the verification is an independent
+  re-computation of geometry, sums and comparisons, not a second interval
+  library.

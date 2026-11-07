@@ -1,0 +1,101 @@
+{
+  "peak_checks": [
+    {
+      "D": "4",
+      "m": 3,
+      "cells_per_patch": 4,
+      "precision_nesting_60_80": true,
+      "ambient_context_invariance": true
+    },
+    {
+      "D": "4",
+      "V": "2",
+      "m": 3,
+      "cells_per_patch": 4,
+      "N": 12,
+      "precision": 60,
+      "full_rows_evaluated": 12,
+      "separately_evaluated_kernel_entries": 144,
+      "exact_total_cell_measure": "2",
+      "full_coordinate_cw_lower": "0.358385075693041622656563813929680695457908814957026269730427",
+      "full_coordinate_cw_upper": "0.358385075693054083818681638866394270313054404427280521074315",
+      "optimized_cw_lower": "0.358385075693041622656563813929680695457908814957026269730425",
+      "optimized_cw_upper": "0.358385075693054083818681638866394270313054404427280521074323",
+      "full_bracket_contained_in_optimized": true,
+      "exact_endpoint_span_and_patch_geometry": true,
+      "exact_fraction_matrix_summation": true,
+      "q_sha256": "0de757a4471b64482adbe2cf3fa3693528b4e466596a6267a7b0440de35bd8fa",
+      "method": "full endpoint-based coordinates; separate Gaussian entries; exact Fraction sums"
+    },
+    {
+      "D": "6",
+      "m": 4,
+      "cells_per_patch": 4,
+      "precision_nesting_60_80": true,
+      "ambient_context_invariance": true
+    },
+    {
+      "D": "6",
+      "V": "2",
+      "m": 4,
+      "cells_per_patch": 4,
+      "N": 16,
+      "precision": 60,
+      "full_rows_evaluated": 16,
+      "separately_evaluated_kernel_entries": 256,
+      "exact_total_cell_measure": "2",
+      "full_coordinate_cw_lower": "0.259078533803034154302511968586530005293760244947796783567862",
+      "full_coordinate_cw_upper": "0.259078533803049789992393123615839333022066484591760292341834",
+      "optimized_cw_lower": "0.259078533803034154302511968586530005293760244947796783567858",
+      "optimized_cw_upper": "0.259078533803049789992393123615839333022066484591760292341836",
+      "full_bracket_contained_in_optimized": true,
+      "exact_endpoint_span_and_patch_geometry": true,
+      "exact_fraction_matrix_summation": true,
+      "q_sha256": "8f409fb43e2f4b01872e38067f3ec0ff9a519c4d52c8146897381a24d2855a1a",
+      "method": "full endpoint-based coordinates; separate Gaussian entries; exact Fraction sums"
+    }
+  ],
+  "water_checks": {
+    "precision_nesting_60_80": true,
+    "ambient_context_invariance": true,
+    "exact_rational_patch_and_ambient_geometry": true
+  },
+  "rayleigh_checks": [
+    {
+      "D": "4",
+      "V": "2",
+      "N": 640,
+      "anchor_m": 11,
+      "principal_precision_nesting_60_80": true,
+      "rayleigh_upper_precision_nesting_60_80": true,
+      "exact_positive_factor_check": true,
+      "ambient_context_invariance": true,
+      "uses_quantified_spectral_gap": false,
+      "uses_boundary_coefficient_interval": false
+    },
+    {
+      "D": "6",
+      "V": "2",
+      "N": 640,
+      "anchor_m": 17,
+      "principal_precision_nesting_60_80": true,
+      "rayleigh_upper_precision_nesting_60_80": true,
+      "exact_positive_factor_check": true,
+      "ambient_context_invariance": true,
+      "uses_quantified_spectral_gap": false,
+      "uses_boundary_coefficient_interval": false
+    }
+  ],
+  "gap_free_peak_chain": true,
+  "joint_gain_strictly_certified": true,
+  "finite_coverage": {
+    "4": [
+      2,
+      10
+    ],
+    "6": [
+      2,
+      16
+    ]
+  }
+}

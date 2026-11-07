@@ -1,0 +1,51 @@
+{
+  "coefficients_not_fitted": true,
+  "coefficient_intervals_certified": false,
+  "polynomial_cases": 120,
+  "all_polynomial_bounds": true,
+  "fragment_measure_self_check": {
+    "exact_additional_cases": 160,
+    "odd_and_even_counts": true,
+    "odd_and_even_monomials": true,
+    "fractional_geometry": true,
+    "independent_endpoint_and_binomial_integration": true,
+    "ambient_context_invariance": true,
+    "water_rational_identity_cases": 16,
+    "invalid_inputs_rejected": true,
+    "spectral_coefficient_certified": false,
+    "scope": "exact polynomial tests of the proved weak C3 measure expansion"
+  },
+  "second_budget_checks": [
+    {
+      "D": "4",
+      "V": "2",
+      "N": 640,
+      "precision": 60,
+      "precision_nesting": true,
+      "ambient_context_invariance": true,
+      "exact_anchor_inequality": true,
+      "invalid_inputs_rejected": true,
+      "signed_second_coefficient_computed": false,
+      "finite_ratio_localization": false
+    },
+    {
+      "D": "6",
+      "V": "2",
+      "N": 640,
+      "precision": 60,
+      "precision_nesting": true,
+      "ambient_context_invariance": true,
+      "exact_anchor_inequality": true,
+      "invalid_inputs_rejected": true,
+      "signed_second_coefficient_computed": false,
+      "finite_ratio_localization": false
+    }
+  ],
+  "max_linear_residual": 1.1226549155579002e-16,
+  "max_orthogonality": 1.5896436727710905e-16,
+  "coefficient_resolution_d": {
+    "4": 1.0130785099704553e-14,
+    "6": 1.4439838214030942e-14
+  },
+  "gauss4_vs8_max": 1.1102230246251565e-16
+}

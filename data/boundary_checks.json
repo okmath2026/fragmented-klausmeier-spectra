@@ -1,0 +1,21 @@
+{
+  "interval_checks": [
+    {
+      "D": "4",
+      "N": 80,
+      "precision_nesting_60_80": true,
+      "ambient_context_invariance": true
+    },
+    {
+      "D": "6",
+      "N": 80,
+      "precision_nesting_60_80": true,
+      "ambient_context_invariance": true
+    }
+  ],
+  "fft_checks": {
+    "dense_matvec_error": 5.551115123125783e-17,
+    "dense_eigenvalue_error": 0.0,
+    "independent_m64_reference_error": 2.2604140781368187e-13
+  }
+}

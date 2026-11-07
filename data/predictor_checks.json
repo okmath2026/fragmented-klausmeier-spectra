@@ -1,0 +1,26 @@
+{
+  "self_checks": [
+    {
+      "D": "4",
+      "m": 80,
+      "features": 32,
+      "precision_nesting": true,
+      "ambient_context_invariance": true,
+      "finite_count_only": true,
+      "uses_numpy_in_replay": false
+    },
+    {
+      "D": "6",
+      "m": 70,
+      "features": 48,
+      "precision_nesting": true,
+      "ambient_context_invariance": true,
+      "finite_count_only": true,
+      "uses_numpy_in_replay": false
+    }
+  ],
+  "all_displayed_main_remainders_positive": true,
+  "unique_certificates": 44,
+  "finite_count_only": true,
+  "uniform_third_order_bound_replaced": false
+}

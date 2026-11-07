@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite them as below."
+title: "Code and data for: Second-order fragmentation expansions and certified optimal patch counts in a non-local Klausmeier model"
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Qingyu
+    affiliation: "Jiangsu University"
+version: 1.0.0
+date-released: 2026-11-07
+license: MIT
+repository-code: "https://github.com/okmath2026/fragmented-klausmeier-spectra"
+keywords:
+  - non-local dispersal
+  - Klausmeier model
+  - habitat fragmentation
+  - principal eigenvalue
+  - validated numerics
+  - interval arithmetic

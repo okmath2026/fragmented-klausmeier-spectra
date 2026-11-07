@@ -1,0 +1,81 @@
+{
+  "self_checks": [
+    {
+      "D": "4",
+      "V": "2",
+      "features": 20,
+      "precision": 60,
+      "precision_nesting": true,
+      "ambient_context_invariance": true,
+      "invalid_trials_rejected": true,
+      "signed_second_coefficient_certified": true,
+      "positive_sign_certified": true,
+      "finite_ratio_localization": false
+    },
+    {
+      "D": "4",
+      "V": "2",
+      "features": 30,
+      "precision": 60,
+      "precision_nesting": true,
+      "ambient_context_invariance": true,
+      "invalid_trials_rejected": true,
+      "signed_second_coefficient_certified": true,
+      "positive_sign_certified": true,
+      "finite_ratio_localization": false
+    },
+    {
+      "D": "4",
+      "V": "2",
+      "features": 40,
+      "precision": 60,
+      "precision_nesting": true,
+      "ambient_context_invariance": true,
+      "invalid_trials_rejected": true,
+      "signed_second_coefficient_certified": true,
+      "positive_sign_certified": true,
+      "finite_ratio_localization": false
+    },
+    {
+      "D": "6",
+      "V": "2",
+      "features": 30,
+      "precision": 60,
+      "precision_nesting": true,
+      "ambient_context_invariance": true,
+      "invalid_trials_rejected": true,
+      "signed_second_coefficient_certified": true,
+      "positive_sign_certified": true,
+      "finite_ratio_localization": false
+    },
+    {
+      "D": "6",
+      "V": "2",
+      "features": 40,
+      "precision": 60,
+      "precision_nesting": true,
+      "ambient_context_invariance": true,
+      "invalid_trials_rejected": true,
+      "signed_second_coefficient_certified": true,
+      "positive_sign_certified": true,
+      "finite_ratio_localization": false
+    },
+    {
+      "D": "6",
+      "V": "2",
+      "features": 50,
+      "precision": 60,
+      "precision_nesting": true,
+      "ambient_context_invariance": true,
+      "invalid_trials_rejected": true,
+      "signed_second_coefficient_certified": true,
+      "positive_sign_certified": true,
+      "finite_ratio_localization": false
+    }
+  ],
+  "signed_second_coefficient_certified": true,
+  "all_signed_coefficients_positive": true,
+  "complete_feature_coverage": true,
+  "old_boundary_intervals_contain_new": true,
+  "finite_ratio_localization": false
+}

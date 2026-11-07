@@ -1,0 +1,16 @@
+[
+  {
+    "D": "6",
+    "features": 40,
+    "precision_nesting": true,
+    "alien_context_invariance": true,
+    "full_parity_ordering_with_tail": true
+  },
+  {
+    "D": "14",
+    "features": 128,
+    "precision_nesting": true,
+    "alien_context_invariance": true,
+    "full_parity_ordering_with_tail": true
+  }
+]

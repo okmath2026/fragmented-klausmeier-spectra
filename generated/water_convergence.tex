@@ -1,0 +1,23 @@
+\begin{table}[htbp]
+\centering
+\caption{Finite-difference checks of the linear water comparison problem for $(\ell,d_w)=(1,.1),(2/3,1),(4,1)$. The errors are float64 consistency diagnostics.}
+\label{tab:water_convergence}
+\begin{tabular}{llll}
+\toprule
+Case & Segments & Maximum-value error & Order \\
+\midrule
+1 & 32 & 2.332e-04 & -- \\
+1 & 64 & 5.833e-05 & 1.999 \\
+1 & 128 & 1.458e-05 & 2.000 \\
+1 & 256 & 3.646e-06 & 2.000 \\
+2 & 32 & 1.835e-06 & -- \\
+2 & 64 & 4.588e-07 & 2.000 \\
+2 & 128 & 1.147e-07 & 2.000 \\
+2 & 256 & 2.868e-08 & 2.000 \\
+3 & 32 & 3.333e-04 & -- \\
+3 & 64 & 8.339e-05 & 1.999 \\
+3 & 128 & 2.085e-05 & 2.000 \\
+3 & 256 & 5.213e-06 & 2.000 \\
+\bottomrule
+\end{tabular}
+\end{table}
